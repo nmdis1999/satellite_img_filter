@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@radix-ui/react-select": "^2.1.2",
+    "date-fns": "^4.1.0",
+    "lucide-react": "^0.460.0",
+    "tailwindcss-animate": "^1.0.7"
+  }
+}

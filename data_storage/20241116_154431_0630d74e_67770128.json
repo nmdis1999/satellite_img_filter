@@ -1,0 +1,10 @@
+{
+  "user_id": "user123",
+  "data": {
+    "query": {
+      "location": "NYC",
+      "data_type": "temperature"
+    },
+    "timestamp": "2024-11-16T15:44:31.971557"
+  }
+}
